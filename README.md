@@ -9,5 +9,7 @@ Edward &amp; Natalia's recipes.
     * [General Tso's Chicken](chicken/general_tso.md)
 * Pastry
     * [Scones](pastry/scones.md)
+* Pizza
+    * [Pizza Dough](pizza/pizza_dough.md)
 * Russian
     * [Borsch](russian/borsch.md)
