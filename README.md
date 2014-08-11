@@ -9,9 +9,9 @@ Edward & Natalia's recipes.
     * [General Tso's Chicken](chicken/general_tso.md)
 * Desserts
     * Cake
-        * [No Egg Chocolate Cake](dessert/cake/no_egg_chocolate_cake.md)
+        * [No Egg Chocolate Cake](desserts/cake/no_egg_chocolate_cake.md)
     * Pastry
-        * [Scones](dessert/pastry/scones.md)
+        * [Scones](desserts/pastry/scones.md)
 * Pizza
     * [Pizza Dough](pizza/pizza_dough.md)
 * Russian
