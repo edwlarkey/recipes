@@ -10,6 +10,9 @@ Edward & Natalia's recipes.
 * Desserts
     * Cake
         * [No Egg Chocolate Cake](desserts/cake/no_egg_chocolate_cake.md)
+    * Cookies
+        * [Gluten Free Oatmeal
+          Cookies](desserts/cookies/gluten_free_oatmeal_cookies.md)
     * Pastry
         * [Scones](desserts/pastry/scones.md)
 * Pizza
