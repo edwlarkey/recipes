@@ -2,6 +2,8 @@
 
 Edward & Natalia's recipes.
 
+* Bread
+    * [Challah](bread/challah.md)
 * Breakfast
     * [Pancakes](breakfast/pancakes.md)
 * Chicken
