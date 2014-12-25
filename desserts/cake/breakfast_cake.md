@@ -6,7 +6,6 @@ Kitchen](http://www.alexandracooks.com/2011/12/16/cranberry-buttermilk-breakfast
 ## Ingredients
 
 * 1/2 cup butter, room temperature
-* 1 orange zest
 * 1 cup sugar
 * 1 egg
 * 1 tsp vanilla
