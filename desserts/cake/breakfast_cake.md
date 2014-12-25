@@ -5,16 +5,16 @@ Kitchen](http://www.alexandracooks.com/2011/12/16/cranberry-buttermilk-breakfast
 
 ## Ingredients
 
-1/2 cup butter, room temperature
-1 orange zest
-1 cup sugar
-1 egg
-1 tsp vanilla
-2 cups flour
-2 tsp baking powder
-1 tsp kosher salt
-2 cups frozen fruit blend (blue berries & raspberries). Defrost a bit.
-1/2 cup buttermilk
+* 1/2 cup butter, room temperature
+* 1 orange zest
+* 1 cup sugar
+* 1 egg
+* 1 tsp vanilla
+* 2 cups flour
+* 2 tsp baking powder
+* 1 tsp kosher salt
+* 2 cups frozen fruit blend (blue berries & raspberries). Defrost a bit.
+* 1/2 cup buttermilk
 
 ## Instructions
 
