@@ -11,6 +11,7 @@ Edward & Natalia's recipes.
     * [General Tso's Chicken](chicken/general_tso.md)
 * Desserts
     * Cake
+        * [Breakfast Cake with Fruit](desserts/cake/breakfast_cake.md)
         * [No Egg Chocolate Cake](desserts/cake/no_egg_chocolate_cake.md)
     * Cookies
         * [Gluten Free Oatmeal
