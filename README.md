@@ -16,6 +16,7 @@ Edward & Natalia's recipes.
     * Cookies
         * [Gluten Free Oatmeal
           Cookies](desserts/cookies/gluten_free_oatmeal_cookies.md)
+        * [Shortbread Cookies](desserts/cookies/shortbread.md)
     * Pastry
         * [Scones](desserts/pastry/scones.md)
 * Pizza
