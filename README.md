@@ -23,5 +23,6 @@ Edward & Natalia's recipes.
     * [Pizza Dough](pizza/pizza_dough.md)
 * Russian
     * [Borsch](russian/borsch.md)
+    * [Pascha](russian/pascha.md)
 * Soup
     * [Tuscan Soup](soup/tuscan_soup.md)
